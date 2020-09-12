@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1599947279 source:c:\users\caroo\onedrive\escritorio\trabajopractico\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1599946587 c:\users\caroo\onedrive\escritorio\trabajopractico\lib.h
+	<stdio.h>
+	<stdlib.h>
+
+1599944658 c:\users\caroo\onedrive\escritorio\trabajopractico\lib.c
+	"lib.h"
+
+1599947612 source:c:\users\caroo\onedrive\escritorio\trabajopractico\libreria.c
+	<stdio.h>
+	<stdlib.h>
+
+1599947019 c:\users\caroo\onedrive\escritorio\trabajopractico\libreria.h
+
