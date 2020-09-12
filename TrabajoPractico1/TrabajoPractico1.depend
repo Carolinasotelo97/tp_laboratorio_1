@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1599953525 source:c:\users\caroo\onedrive\escritorio\trabajopractico1\calculadora.c
+	<stdio.h>
+	<stdlib.h>
+
