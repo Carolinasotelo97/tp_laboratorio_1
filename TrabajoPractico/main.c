@@ -39,7 +39,7 @@ int main()
                     printf("No se puede dividir por 0. Digite otro numero\n");
                 }else
                 {
-                    printf("Resultado: %.1f\n", &resultado);
+                    printf("Resultado: %.1f\n", division(numero1, numero2));
                 }
                 break;
             case 'd':

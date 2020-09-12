@@ -40,9 +40,9 @@ int resta(int a, int b)
     return resultadoResta;
 }
 
-int division(int a, int b)
+float division(float a, float b)
 {
-    int resultadoDivision;
+    float resultadoDivision;
 
     resultadoDivision= a / b;
 
