@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1601927975 source:c:\users\caroo\onedrive\escritorio\trabajopractico2\arraysemployee.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	"ArraysEmployee.h"
+	"MenuOpciones.h"
+
+1601927643 c:\users\caroo\onedrive\escritorio\trabajopractico2\arraysemployee.h
+
+1601927643 source:c:\users\caroo\onedrive\escritorio\trabajopractico2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ArraysEmployee.h"
+	"MenuOpciones.h"
+
+1601829282 c:\users\caroo\onedrive\escritorio\trabajopractico2\menuopciones.h
+
+1601911652 source:c:\users\caroo\onedrive\escritorio\trabajopractico2\menuopciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ArraysEmployee.h"
+	"MenuOpciones.h"
+
+1601847223 source:c:\users\caroo\onedrive\escritorio\trabajopractico2\nuevosdatos.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"ArraysEmployee.h"
+	"MenuOpciones.h"
+	"NuevosDatos.h"
+
+1601847223 c:\users\caroo\onedrive\escritorio\trabajopractico2\nuevosdatos.h
+
